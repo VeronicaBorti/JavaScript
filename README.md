@@ -1,5 +1,6 @@
 # JavaScript Counter 
-<img width="550" alt="JavaScript counter" src="https://github.com/VeronicaBorti/JavaScript/blob/main/images/JSCounter.png?raw=true">
+<img width="700" alt="JavaScript counter" src="https://github.com/VeronicaBorti/JavaScript/blob/main/images/JSCounter.png?raw=true">
+
 ## Introduction
 
 I designed an application that works as a counter and allows the user to increment and decrement the value of the counter.
