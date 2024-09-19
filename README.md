@@ -6,9 +6,12 @@ The user, upon entering the page, will display 0 as the counter value and will h
 
 ## Languages used:
 
--HTML 
--CSS
--JAVASCRIPT
+<ul>
+  <li>HTML 
+  </li>CSS
+  </li>JAVASCRIPT
+</ul>
+
 
 
 
