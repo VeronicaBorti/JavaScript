@@ -10,7 +10,7 @@ The user, upon entering the page, will display 0 as the counter value and will h
 
 <ul>
   <li>HTML </li>
-  </li>CSS</li>
+  <li>CSS</li>
   <li>JAVASCRIPT</li>
 </ul>
 
