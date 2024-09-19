@@ -1,5 +1,5 @@
 # JavaScript Counter 
-<img width="700" alt="JavaScript counter" src="https://github.com/VeronicaBorti/JavaScript/blob/main/images/JSCounter.png?raw=true">
+<img width="800" alt="JavaScript counter" src="https://github.com/VeronicaBorti/JavaScript/blob/main/images/JSCounter.png?raw=true">
 
 ## Introduction
 
