@@ -7,6 +7,12 @@ I designed an application that works as a counter and allows the user to increme
 
 The user, upon entering the page, will display 0 as the counter value and will have two +/- buttons to change the counter value.
 
+## Creation
+
+The +/- buttons and counter value were realized by manipulating the DOM with JavaScript.
+
+Subsequently, the function was implemented to make the counter value add and decrease. 
+
 ## Languages used:
 
 <ul>
